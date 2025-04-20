@@ -4,7 +4,9 @@ Welcome to **Byte Craft Interactive**, an indie game development collective blen
 
 ## Our Work
 
-**Pathfinders**
+![image](https://github.com/user-attachments/assets/3f521ef0-5b0e-4add-91ed-0e496b61ebde)
+
+Pathfinders
 
 A cooperative third-person survival shooter set in a procedurally generated maze filled with hostile enemies, environmental hazards, and dynamic events. Players must work together to explore, fight, and overcome randomized challenges while managing limited resources and uncovering hidden secrets.
 
