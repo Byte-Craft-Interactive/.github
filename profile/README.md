@@ -1,13 +1,13 @@
-# 🎮 Byte Craft Interactive
+# Byte Craft Interactive
 
 Welcome to **Byte Craft Interactive**, an indie game development collective blending nostalgic retro aesthetics with cutting-edge tech. We craft immersive digital worlds rooted in creativity, storytelling, and gameplay that hits different.
 
-## 🕹️ Our Work
-- 🔧 Games & Prototypes
-- 🕸️ Pixel-perfect UI & Retro-Futuristic Interfaces
-- 🎨 Tools for Designers & Indie Devs
+## Our Work
+- Games & Prototypes
+- Pixel-perfect UI & Retro-Futuristic Interfaces
+- Tools for Designers & Indie Devs
 
-## 📡 Tech Stack
+## Tech Stack
 - Unity
 - C#
 
